@@ -533,6 +533,6 @@ There are a lot more things to learn to create a real website like structure as 
 
 1. https://learn.shayhowe.com/html-css/positioning-content/
 
-2. https://learn.shayhowe.com/html-css/positioning-content/
+2. https://learn.shayhowe.com/advanced-html-css/detailed-css-positioning/
 
 - https://internetingishard.com/html-and-css/floats/
