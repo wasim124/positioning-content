@@ -520,6 +520,13 @@ So, while working with the container always wrap the real content inside the con
 
 There are a lot more things to learn to create a real website like structure as we move forward we will learn everything in detail. This is just the beginning of creating a real flexible page. We will make use of all these sorts of things to create a full-fledged website.
 
+## Answer the following questions
+
+1. What are the benefits of using reusable and flexible layout?
+2. How does the percentage unit work in CSS?
+3. What is the universal selector?
+4. what is the use of `margin: 0 auto;`? explain.
+
 ## Do the exercise2
 
 ## Additional Resources
